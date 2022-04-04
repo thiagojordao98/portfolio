@@ -155,7 +155,9 @@ function InfoWrite() {
     let level = ''
     if (item.level > 80) {
       level = 'Avançado';
-    } else if (item.level > 40 && item.level < 79) {
+    } else if (item.level > 60 && item.level < 80) {
+      level = 'Intermediário/Avançado';
+    } else if (item.level > 40 && item.level < 60) {
       level = 'Intermediário';
     } else {
       level = 'Básico';

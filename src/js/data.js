@@ -33,11 +33,11 @@ let personal = {
     },
     city: {
       long: 'Parnamirim',
-      short: 'GTI'
+      short: 'PRN'
     },
     neighborhood: {
       long: 'Parque das Nações',
-      short: 'MV2'
+      short: 'PDN'
     },
     street: 'Rua Pedra Azul',
     number: 100
@@ -53,7 +53,7 @@ let experiencies = [{
     start: 'jun de 2021',
     end: 'atual'
   },
-  description: 'Aulas de Programação, Design e Tecnologias | Suporte de Rede e Máquinas | Design de Artes'
+  description: 'Desenvolver aplicações web e mobile e acompanhar os demais projetos de consultoria da empresa garantindo os padrões de qualidade.'
 },
 ]
 
@@ -115,49 +115,7 @@ let courses = [{
   hours: 20,
   description: 'Comandos Git | Repositórios Github',
   link: 'https://alunos.b7web.com.br/media/certificates/certificado_6673888.jpg'
-},
-{
-  name: 'Design Gráfico',
-  institute: 'Instituo Mix de Profissões',
-  hours: 99,
-  description: 'Photoshop | Illustrator | Premiere',
-  link: ''
-},
-{
-  name: 'Informática Básica',
-  institute: 'Instituo Mix de Profissões',
-  hours: 90,
-  description: 'Word | Excel | Power Point | Windows | Montagem, Manutenção e Formatação',
-  link: ''
-},
-{
-  name: 'Logística',
-  institute: 'Instituo Mix de Profissões',
-  hours: 72,
-  description: 'Logística',
-  link: ''
-},
-{
-  name: 'Recursos Humanos',
-  institute: 'Instituo Mix de Profissões',
-  hours: 88,
-  description: 'Gestão de Pessoas',
-  link: ''
-},
-{
-  name: 'Administração Financeira',
-  institute: 'Instituo Mix de Profissões',
-  hours: 77,
-  description: 'Gestão Financeira',
-  link: ''
-},
-{
-  name: 'Marketing',
-  institute: 'Instituo Mix de Profissões',
-  hours: 75,
-  description: 'UX/UI | Marketing',
-  link: ''
-},
+}
 ]
 
 let languages = {
@@ -221,7 +179,7 @@ let skills = {
   ],
   stacks: [{
     name: 'front-end',
-    level: 85
+    level: 75
   },
   {
     name: 'back-end',
@@ -268,6 +226,18 @@ let portfolio = [{
   ]
 },
 {
+  name: 'Dashboard de Vendas',
+  desc: 'Relatório de vendas com porcetagem e taxa de sucesso para cada vendedor',
+  site: 'https://salles-dashboard.netlify.app/dashboard',
+  github: 'https://github.com/thiagojordao98/projeto-sds5',
+  img: 'sales-dashboard',
+  stacks: [
+    'react',
+    'typescript',
+    'spring-boot'
+  ]
+},
+{
   name: 'Expense Tracker',
   desc: 'Sistema para controle financeiro com filtro para buscar categorias e datas específicas.',
   site: 'https://expense-tracker-lilac.vercel.app/',
@@ -294,8 +264,8 @@ let portfolio = [{
 {
   name: 'AWAX',
   desc: 'Template de landing page criado apenas com HTML e CSS',
-  site: 'https://yagrrusso.github.io/awax/',
-  github: 'https://github.com/YaGRRusso/awax',
+  site: '',
+  github: '',
   img: 'awax',
   stacks: [
     'html5',
@@ -303,32 +273,22 @@ let portfolio = [{
   ]
 },
 {
-  name: 'Cadastro DEV',
-  desc: 'Tela de cadastro criada para registro de usário.',
-  site: 'https://yagrrusso.github.io/',
-  github: 'https://github.com/YaGRRusso/',
-  img: 'cadastro',
-  stacks: [
-    'react',
-    'typescript'
-  ]
-},
-{
   name: '',
   desc: '',
-  site: 'https://yagrrusso.github.io/starbucks/',
+  site: '',
   github: '',
   img: '',
   stacks: [
-    'html5',
-    'css3'
+    'react',
+    'typescript',
+    'spring-boot'
   ]
 },
 {
   name: 'Pizzas',
   desc: 'Projeto de delivery de pizzas gerado com JS baseado em um array de dados.',
-  site: 'https://yagrrusso.github.io/pizza-delivery/',
-  github: 'https://github.com/YaGRRusso/pizza-delivery',
+  site: '',
+  github: '',
   img: 'pizzas',
   stacks: [
     'html5',
@@ -338,11 +298,11 @@ let portfolio = [{
   ]
 },
 {
-  name: 'React + Rest API',
+  name: '',
   desc: '',
   site: '',
   github: '',
-  img: 'pizzas',
+  img: '',
   stacks: [
     'react',
     'api',
@@ -350,47 +310,11 @@ let portfolio = [{
   ]
 },
 {
-  name: 'React + Rest API',
+  name: '',
   desc: '',
   site: '',
   github: '',
-  img: 'pizzas',
-  stacks: [
-    'react',
-    'api',
-    'tailwind'
-  ]
-},
-{
-  name: 'React + Rest API',
-  desc: '',
-  site: '',
-  github: '',
-  img: 'pizzas',
-  stacks: [
-    'react',
-    'api',
-    'tailwind'
-  ]
-},
-{
-  name: 'React + Rest API',
-  desc: '',
-  site: '',
-  github: '',
-  img: 'pizzas',
-  stacks: [
-    'react',
-    'api',
-    'tailwind'
-  ]
-},
-{
-  name: 'React + Rest API',
-  desc: '',
-  site: '',
-  github: '',
-  img: 'pizzas',
+  img: '',
   stacks: [
     'react',
     'api',
