@@ -72,7 +72,7 @@ let courses = [{
   institute: 'B7Web',
   hours: 44,
   description: 'Javacript | Rest API | ES6 | DOM',
-  //link: 'https://alunos.b7web.com.br/media/certificates/certificado_.jpg'
+  link: 'https://alunos.b7web.com.br/media/certificates/certificado_7877400.jpg'
 },
 {
   name: 'HTML5 e CSS3',
@@ -86,35 +86,35 @@ let courses = [{
   institute: 'B7Web',
   hours: 20,
   description: 'Typescript',
-  //link: 'https://alunos.b7web.com.br/media/certificates/certificado_.jpg'
+  link: 'https://alunos.b7web.com.br/media/certificates/certificado_8661407.jpg'
 },
 // {
 //   name: 'SASS',
 //   institute: 'B7Web',
 //   hours: 20,
 //   description: 'Sass | Webpack',
-//   link: 'https://alunos.b7web.com.br/media/certificates/certificado_9653220.jpg'
+//   link: ''
 // },
 {
   name: 'Banco de Dados',
   institute: 'B7Web',
   hours: 20,
   description: 'SQL | HeidiSQL',
-  link: 'https://alunos.b7web.com.br/media/certificates/certificado_3610821.jpg'
+  link: ''
 },
 {
   name: 'Bootstrap4',
   institute: 'B7Web',
   hours: 20,
   description: 'Bootstrap 4',
-  link: 'https://alunos.b7web.com.br/media/certificates/certificado_8838042.jpg'
+  link: ''
 },
 {
   name: 'Git/Github',
   institute: 'B7Web',
   hours: 20,
   description: 'Comandos Git | Repositórios Github',
-  link: 'https://alunos.b7web.com.br/media/certificates/certificado_6673888.jpg'
+  link: ''
 }
 ]
 
@@ -264,8 +264,8 @@ let portfolio = [{
 {
   name: 'AWAX',
   desc: 'Template de landing page criado apenas com HTML e CSS',
-  site: '',
-  github: '',
+  site: 'site-awax.netlify.app',
+  github: 'https://github.com/thiagojordao98/projeto-AWAX/settings',
   img: 'awax',
   stacks: [
     'html5',
@@ -287,8 +287,8 @@ let portfolio = [{
 {
   name: 'Pizzas',
   desc: 'Projeto de delivery de pizzas gerado com JS baseado em um array de dados.',
-  site: '',
-  github: '',
+  site: 'https://pizzaria-online.netlify.app',
+  github: 'https://github.com/thiagojordao98/projeto-pizzaria-online',
   img: 'pizzas',
   stacks: [
     'html5',
