@@ -264,7 +264,7 @@ let portfolio = [{
 {
   name: 'AWAX',
   desc: 'Template de landing page criado apenas com HTML e CSS',
-  site: 'site-awax.netlify.app',
+  site: 'https://site-awax.netlify.app',
   github: 'https://github.com/thiagojordao98/projeto-AWAX/settings',
   img: 'awax',
   stacks: [
