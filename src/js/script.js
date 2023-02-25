@@ -289,7 +289,7 @@ document.querySelector('.stacks-chevron').addEventListener('click', (item) => {
 // ===================== //
 function portfolioWrite() {
   let sites = ''
-  for (let i = 7; i >= 0; i--) {
+  for (let i = 5; i >= 0; i--) {
     let stacks = ''
 
 

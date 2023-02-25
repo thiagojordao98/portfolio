@@ -19,7 +19,7 @@ let personal = {
   name: 'Thiago Jordão',
   birth: '1998-06-28 3:25',
   age: currentAge('1998-06-28 3:025'),
-  email: 'thiagojordao98@gmail.com',
+  email: 'thiagojordao.dev@gmail.com',
   phone: '84996843647',
   address: {
     cod: '59519310',
@@ -206,7 +206,7 @@ let social = [{
 },
 {
   name: 'gmail',
-  link: 'mailto:thiagojordao98@gmail.com',
+  link: 'mailto:thiagojordao.dev@gmail.com',
 },
 {
   name: 'curriculum',
@@ -215,17 +215,6 @@ let social = [{
 ]
 
 let portfolio = [{
-  name: 'Lifoo',
-  desc: 'Site desenvolvido na disciplina de PES',
-  site: 'https://lifoo.netlify.app/',
-  github: '',
-  img: 'lifoo',
-  stacks: [
-    'react',
-    'tailwind'
-  ]
-},
-{
   name: 'Dashboard de Vendas',
   desc: 'Relatório de vendas com porcetagem e taxa de sucesso para cada vendedor',
   site: 'https://salles-dashboard.netlify.app/dashboard',
@@ -273,15 +262,14 @@ let portfolio = [{
   ]
 },
 {
-  name: '',
-  desc: '',
-  site: '',
+  name: 'Lifoo',
+  desc: 'Site desenvolvido no curso de Projeto e Engenharia de Software da UFRN',
+  site: 'https://lifoo.netlify.app/',
   github: '',
-  img: '',
+  img: 'lifoo',
   stacks: [
     'react',
-    'typescript',
-    'spring-boot'
+    'tailwind'
   ]
 },
 {
@@ -295,30 +283,6 @@ let portfolio = [{
     'css3',
     'javascript',
     'React'
-  ]
-},
-{
-  name: '',
-  desc: '',
-  site: '',
-  github: '',
-  img: '',
-  stacks: [
-    'react',
-    'api',
-    'tailwind'
-  ]
-},
-{
-  name: '',
-  desc: '',
-  site: '',
-  github: '',
-  img: '',
-  stacks: [
-    'react',
-    'api',
-    'tailwind'
   ]
 }
 ]
