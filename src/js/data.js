@@ -210,7 +210,7 @@ let social = [{
 },
 {
   name: 'curriculum',
-  link: 'https://drive.google.com/file/d/1jpGjPwaBPo1CkkFCH-jrEkYXPNw7tEDN/view?usp=sharing',
+  link: 'https://docs.google.com/document/d/1_wgkoL3pNQjlMtbGHi-qMKEMHLzTvzaDktRdKC1Q7E0/edit?usp=sharing',
 }
 ]
 
@@ -238,18 +238,18 @@ let portfolio = [{
     'styled-components'
   ]
 },
-{
-  name: 'Pokedex',
-  desc: 'Pokedex para catalogar os Pokémons de Kanto.',
-  site: 'https://pokedex-kantoo.netlify.app/',
-  github: 'https://github.com/thiagojordao98/kanto-pokedex',
-  img: 'pokedex',
-  stacks: [
-    'html5',
-    'css3',
-    'javascript'
-  ]
-},
+// {
+//   name: 'Pokedex',
+//   desc: 'Pokedex para catalogar os Pokémons de Kanto.',
+//   site: 'https://pokedex-kantoo.netlify.app/',
+//   github: 'https://github.com/thiagojordao98/kanto-pokedex',
+//   img: 'pokedex',
+//   stacks: [
+//     'html5',
+//     'css3',
+//     'javascript'
+//   ]
+// },
 {
   name: 'AWAX',
   desc: 'Template de landing page criado apenas com HTML e CSS',
