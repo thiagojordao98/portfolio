@@ -1,4 +1,4 @@
-console.log('Bem-Vindo!')
+console.log('Bem-Vindo(a)!')
 let date = new Date()
 
 function currentDate() {
