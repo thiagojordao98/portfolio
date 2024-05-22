@@ -210,7 +210,7 @@ let social = [{
 },
 {
   name: 'curriculum',
-  link: 'https://docs.google.com/document/d/1_wgkoL3pNQjlMtbGHi-qMKEMHLzTvzaDktRdKC1Q7E0/edit?usp=sharing',
+  link: 'https://docs.google.com/document/d/1hf6Uf5yj5MegB9s2rp9C9yBX8Oh0PiMW0XUMRkb5l4Y/edit?usp=sharing',
 }
 ]
 
